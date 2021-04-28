@@ -109,26 +109,25 @@ Group Symmetries in Reinforcement Learning</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(60).pdf" style="text-decoration:none;">Equivariant Spherical Deconvolution: Learning Sparse Orientation Distribution Functions from Spherical Data </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(61).pdf" style="text-decoration:none;">Provably Strict Generalisation Benefit for Equivariant Models</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(62).pdf" style="text-decoration:none;">B-Spline CNNs on Lie Groups</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(63).pdf" style="text-decoration:none;">Learning SO(3) Equivariant Representations with Spherical CNNs</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(64).pdf" style="text-decoration:none;">Linear· Representations
+of Finite Groups</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(65).pdf" style="text-decoration:none;">Lie Algebra Convolutional Neural Networks with Automatic Symmetry Extraction </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(66).pdf" style="text-decoration:none;">Deep Scale-spaces: Equivariance Over Scale</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(67).pdf" style="text-decoration:none;">Universal Invariant and Equivariant Graph Neural Networks</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(68).pdf" style="text-decoration:none;">Scale-Equivariant Steerable Networks</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(69).pdf" style="text-decoration:none;">Group Equivariant Generative Adversarial Networks</a></li>                              
 
   </ul>
   
