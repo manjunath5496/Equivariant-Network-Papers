@@ -48,74 +48,66 @@ Rotation- and translation-equivariant neural networks for 3D point clouds</a></l
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(25).pdf" style="text-decoration:none;">Ab-Initio Solution of the Many-Electron Schrodinger Equation with Deep Neural Networks</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(26).pdf" style="text-decoration:none;">Equivariant Hamiltonian Flows</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(27).pdf" style="text-decoration:none;">Co-Attentive Equivariant Neural Networks: Focusing Equivariance On Transformations Co-Occurring In Data</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(28).pdf" style="text-decoration:none;">General E(2) - Equivariant Steerable CNNs</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(29).pdf" style="text-decoration:none;">Universal Equivariant Multilayer Perceptrons </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(30).pdf" style="text-decoration:none;">Incorporating Symmetry into Deep Dynamics Models for Improved Generalization</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(31).pdf" style="text-decoration:none;">Attentive Group Equivariant Convolutional Networks</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(32).pdf" style="text-decoration:none;">Targeted free energy estimation via learned mappings</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(33).pdf" style="text-decoration:none;">On Learning Sets of Symmetric Elements</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(34).pdf" style="text-decoration:none;">Roto-Translation Equivariant Convolutional Networks: Application to Histopathology Image Analysis</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(35).pdf" style="text-decoration:none;">Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(36).pdf" style="text-decoration:none;">Gauge Equivariant Mesh CNNs
+Anisotropic convolutions on geometric graphs</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(37).pdf" style="text-decoration:none;">Isometric Transformation Invariant and Equivariant Graph Convolutional Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(38).pdf" style="text-decoration:none;">The Convolution Exponential and
+Generalized Sylvester Flows</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(39).pdf" style="text-decoration:none;">Equivariant Flows: Exact Likelihood Generative Learning for Symmetric Densities</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(40).pdf" style="text-decoration:none;">Lorentz Group Equivariant Neural Network for Particle Physics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(41).pdf" style="text-decoration:none;">Wavelet Networks:
+Scale Equivariant Learning From Raw Waveforms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(42).pdf" style="text-decoration:none;">SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(43).pdf" style="text-decoration:none;">Spin-Weighted Spherical CNNs</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(44).pdf" style="text-decoration:none;">MDP Homomorphic Networks:
+Group Symmetries in Reinforcement Learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(45).pdf" style="text-decoration:none;">Finding symmetry-breaking Order Parameters with Euclidean Neural Networks</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(46).pdf" style="text-decoration:none;">Scale Equivariance Improves Siamese Tracking</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(47).pdf" style="text-decoration:none;">Exchangeable Neural ODE for Set Modeling</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(48).pdf" style="text-decoration:none;">Sampling using SU(N) gauge equivariant flows</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(49).pdf" style="text-decoration:none;">Group Equivariant Stand-Alone Self-Attention For Vision</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(50).pdf" style="text-decoration:none;">On the Universality of Rotation Equivariant Point Cloud Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(51).pdf" style="text-decoration:none;">Equivariant Normalizing Flows for Point Processes and Sets</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(52).pdf" style="text-decoration:none;">A Wigner-Eckart Theorem for Group Equivariant Convolution Kernels</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(53).pdf" style="text-decoration:none;">Trajectory Prediction using Equivariant Continuous Convolution</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(54).pdf" style="text-decoration:none;">Learning Invariances in Neural Networks </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(55).pdf" style="text-decoration:none;">Symmetry-Aware Actor-Critic for 3D Molecular Design</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(56).pdf" style="text-decoration:none;">Temperature-steerable flows </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(57).pdf" style="text-decoration:none;">LieTransformer: Equivariant Self-Attention for Lie Groups</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(58).pdf" style="text-decoration:none;">SE(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(59).pdf" style="text-decoration:none;">Rotation-Equivariant Deep Learning for Diffusion MRI</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(60).pdf" style="text-decoration:none;">Equivariant Spherical Deconvolution: Learning Sparse Orientation Distribution Functions from Spherical Data </a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Equivariant-Network-Papers/blob/master/e(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
  
